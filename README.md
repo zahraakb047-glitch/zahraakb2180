@@ -12,6 +12,10 @@
 ## مهارت ها و تکنولوژی ها
 **زبان ها:**++Python | Java Script | C 
 **فریم ورک ها:** React.js | Django | Node.js
-**ابزار ها:**
+**ابزار ها:** Docker | Git | Vs Code
 
+
+
+## آمار گیت های من
+![Github Stats](https://github.com/zahraakb047-glitch/zahraakb2180)
 
